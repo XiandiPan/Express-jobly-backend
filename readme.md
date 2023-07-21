@@ -2,7 +2,7 @@
 
 ### Express Jobly
 
-` Express Jobly is a three-day sprint project completed by me and my partner during Rithm. It's a job-search application built with Express in the Node.js environment, allowing users to sign up, log in, search for jobs, and apply to them.`
+` Express Jobly is a three-day sprint project completed by me and my partner @Tim during Rithm. It's a job-search application built with Express in the Node.js environment, allowing users to sign up, log in, search for jobs, and apply to them.`
 
 ### Tech Stack & Packages
 - Node.js
