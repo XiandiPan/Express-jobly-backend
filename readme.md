@@ -2,7 +2,7 @@
 
 ### Express Jobly
 
-##### Express Jobly is a three-day sprint project completed by me and my partner during Rithm. It's a job-search application built with Express in the Node.js environment, allowing users to sign up, log in, search for jobs, and apply to them.
+` Express Jobly is a three-day sprint project completed by me and my partner during Rithm. It's a job-search application built with Express in the Node.js environment, allowing users to sign up, log in, search for jobs, and apply to them.`
 
 ### Tech Stack & Packages
 - Node.js
@@ -21,9 +21,9 @@
 ### Installation & Run
 1. Clone the repository
 2. Change directory to the repository
-3. Run npm i to install dependencies
-4. Set up the Postgres database by running psql -f jobly.sql
-5. Start the application with npm start
+3. Run `npm i` to install dependencies
+4. Set up the Postgres database by running `psql -f jobly.sql`
+5. Start the application with `npm start`
 
 
 ### To-Do
